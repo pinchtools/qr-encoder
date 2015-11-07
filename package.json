@@ -12,7 +12,8 @@
   },
   "keywords": [
     "qrcode",
-    "qr-code"
+    "qr-code",
+    "qrencoder"
   ],
   "author": "Vincent Pellé",
   "license": "GPL-3.0",
