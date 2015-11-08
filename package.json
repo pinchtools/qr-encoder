@@ -1,6 +1,6 @@
 {
   "name": "qr-encoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encode a string into a Qr Code bit matrix (two-dimensional array of bits)",
   "main": "index.js",
   "scripts": {
