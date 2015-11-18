@@ -1,6 +1,7 @@
 qr-encoder
 ===========
 
+[![Build Status](https://travis-ci.org/pinchtools/qr-encoder.svg?branch=master)](https://travis-ci.org/pinchtools/qr-encoder)
 [![npm version](https://badge.fury.io/js/qr-encoder.svg)](https://badge.fury.io/js/qr-encoder)
 
 Encode a string into a Qr Code bit matrix (two-dimensional array of bits)
