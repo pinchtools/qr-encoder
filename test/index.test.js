@@ -41,9 +41,11 @@ describe('qr-encoder', function () {
 		    result.should.have.length.within(21,177);
 
 		    //lines length should be equals to array length
-		    result.forEach(line => {
-		      line.should.have.length(result.length);
-		    });
+		    var i = 0;
+		    
+		    for (; i < result.length; i++) {
+			result[i].should.have.length(result.length);
+		    }
 
 		});
 	});
